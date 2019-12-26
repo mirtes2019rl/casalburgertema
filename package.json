@@ -1,0 +1,24 @@
+{
+  "name": "casalburgertema",
+  "version": "1.0.0",
+  "description": "Novo tema CasalBurger em bootstrap para WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirtes2019rl/casalburgertema.git"
+  },
+  "author": "Renan Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirtes2019rl/casalburgertema/issues"
+  },
+  "homepage": "https://github.com/mirtes2019rl/casalburgertema#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
